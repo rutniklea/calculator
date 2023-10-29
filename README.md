@@ -1,4 +1,3 @@
 # calculator
 
-## Introduction
-This HTML file provides the structure for a basic calculator interface, while the functionality and styling details are implemented in the associated JavaScript (script.js) and CSS (style.css) files.
+It provides the user with a basic calculator interface to perform addition, subtraction, multiplication, and division, as well as basic arithmetic operations.
